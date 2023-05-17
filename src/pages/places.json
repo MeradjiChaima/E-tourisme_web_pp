@@ -1,0 +1,23 @@
+[
+    {
+        "name" :  "Sablette" ,
+        "theme" : "nature" ,
+        "categorie" : "place" ,
+        "longitude" : "3.086880014142495" , 
+        "latitude" :"36.75063698947952"
+    },
+    {
+        "name" :  "Jardin d essai" ,
+        "theme" : "nature" ,
+        "categorie" : "place" ,
+        "longitude" : "3.075905491070738" ,
+        "latitude" :"36.74896462348915"
+    },
+    {
+        "name" :  "Memorial de martyr" ,
+        "theme" : "histoire" ,
+        "categorie" : "place" ,
+        "longitude" : "3.0700006446660093" , 
+        "latitude" :"36.74638041484622"
+    }
+]
